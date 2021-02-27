@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" height="200" align="center" style="width: 100%" />
+<img src="https://rishavanand.github.io/static/images/greetings.gif" height="130" align="center" style="width: 100%" />
 </div> 
 <h3 align="center">I am a Student who loves to code. I am passionate frontend and backend developer from India. I love to Exploring new fields and Empowering others.</h3>
 
