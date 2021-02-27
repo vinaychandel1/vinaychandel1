@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Vinay Chandel</h1>
+<div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" height="300" align="center" style="width: 100%" />
+</div> 
 <h3 align="center">I am a Student who loves to code. I am passionate frontend and backend developer from India. I love to Exploring new fields and Empowering others.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinaychandel1&label=Profile%20views&color=0e75b6&style=flat" alt="vinaychandel1" /> </p>
@@ -22,10 +24,7 @@
 - 📄 Know about my experiences [https://drive.google.com/file/d/1sRNWpzSPfhofg3rfY1ex0zfxROCfva85/view?usp=sharing](https://drive.google.com/file/d/1VFFML7-Bm3adSKN-UCU4LOc0KoqdjRHf/view?usp=sharing)
 
 - ⚡ Fun fact **I think I am funny**
-
-### Blogs posts-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
