@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **vinay97chandel@protonmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1sRNWpzSPfhofg3rfY1ex0zfxROCfva85/view?usp=sharing](https://drive.google.com/file/d/1VFFML7-Bm3adSKN-UCU4LOc0KoqdjRHf/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1sRNWpzSPfhofg3rfY1ex0zfxROCfva85/view?usp=sharing](https://drive.google.com/file/d/1sRNWpzSPfhofg3rfY1ex0zfxROCfva85/view?usp=sharing)
 
 - ⚡ Fun fact **I think I am funny**
 <br>
