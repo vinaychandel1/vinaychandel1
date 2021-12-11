@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **vinay97chandel@protonmail.com**
 
-- 📄 Know about my experiences [shorturl.at/nrxAE](shorturl.at/nrxAE)
+- 📄 Know about my experiences [My Resume](https://shorturl.at/nrxAE)
 
 - ⚡ Fun fact **I think I am funny**
 <br>
