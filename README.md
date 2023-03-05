@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" height="130" align="center" style="width: 100%" />
 </div> 
-<h3 align="center">I am a Student who loves to code. I am passionate frontend and backend developer from India. I love to Exploring new fields and Empowering others.</h3>
+<h3 align="center">I am a WebMethods developer who loves to code. I am passionate frontend and backend developer from India. I love to Exploring new fields and Empowering others.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinaychandel1&label=Profile%20views&color=0e75b6&style=flat" alt="vinaychandel1" /> </p>
 
