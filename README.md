@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **vinay97chandel@protonmail.com**
 
-- 📄 Know about my experiences [My Resume](https://bit.ly/3ClRVOb)
+- 📄 Know about my experiences [My Resume](https://bit.ly/3KZc1Ea)
 
 - ⚡ Fun fact **I think I am funny**
 <br>
