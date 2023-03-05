@@ -82,6 +82,8 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /> 
 <img style="margin: 10px" a href="https://www.jenkins.io" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" height="50" /> 
   <img style="margin: 10px" a href="https://www.softwareag.com/en_corporate/platform/integration-apis.html" src="https://media.proprofs.com/images/QM/user_images/2170919/1515525224.png" alt="Webmethods" height="65" width="100" /> 
+  <img style="margin: 10px" a href="https://www.microfocus.com/en-us/home" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Micro_Focus_logo.svg/799px-Micro_Focus_logo.svg.png?20150107080149" alt="ALM" height="50" /> 
+
   <img style="margin: 10px"  a href="https://www.softwareag.com/en_corporate/platform/integration-apis.html" src="https://media-fastly.hackerearth.com/media/companies/ec506386-2bad-11e5-a49e-22000a978a16-SAG_Primary_TabLogo_Grad_RGB_tcm89-107726.jpg" alt="SoftwareAG" height="65" width="120" />
   <img style="margin: 10px" a href="https://www.putty.org/" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/PuTTY_Icon.svg/400px-PuTTY_Icon.svg.png?20220831174608" alt="Putty" height="50" /> 
   <img style="margin: 10px" a href="https://www.atlassian.com/" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Jira_%28Software%29_logo.svg/798px-Jira_%28Software%29_logo.svg.png?20191008180352" alt="JIRA" height="55" width="100"/>
