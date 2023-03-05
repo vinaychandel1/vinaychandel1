@@ -68,7 +68,7 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/laravel-plain-wordmark.svg" alt="Laravel" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
-  <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Logo_DbVisualizer.svg/637px-Logo_DbVisualizer.svg.png?20201221095242" alt="DBVisualizer" height="50" width="120" />
+  <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Logo_DbVisualizer.svg/640px-Logo_DbVisualizer.svg.png" alt="DBVisualizer" height="55" width="105" />
  <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Software_AG_Logo_2015.jpg/150px-Software_AG_Logo_2015.jpg" alt="Git" height="50" width="120" /> 
 </div>
 
