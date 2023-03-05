@@ -68,6 +68,8 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/laravel-plain-wordmark.svg" alt="Laravel" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
+  <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Logo_DbVisualizer.svg/637px-Logo_DbVisualizer.svg.png?20201221095242" alt="DBVisualizer" height="50" width="120" />
+ <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Software_AG_Logo_2015.jpg/150px-Software_AG_Logo_2015.jpg" alt="Git" height="50" width="120" /> 
 </div>
 
 </td><td valign="top" width="33%">
@@ -77,7 +79,11 @@
 ### DevOps  
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /> 
+<img style="margin: 10px" a href="https://www.jenkins.io" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" height="50" /> 
+  <img style="margin: 10px" a href="https://www.softwareag.com/en_corporate/platform/integration-apis.html" src="https://cdn.worldvectorlogo.com/logos/webmethods.svg" alt="Webmethods" height="50" width="100" /> 
+  <img style="margin: 10px"  a href="https://www.softwareag.com/en_corporate/platform/integration-apis.html" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Software_AG_Logo_2015.jpg/150px-Software_AG_Logo_2015.jpg" alt="SoftwareAG" height="50" width="120" />
+  <img style="margin: 10px" a href="https://www.putty.org/" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/PuTTY_Icon.svg/400px-PuTTY_Icon.svg.png?20220831174608" alt="Putty" height="50" /> 
 </div>
 
 </td></tr></table>   </p>
