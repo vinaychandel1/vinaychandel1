@@ -1,98 +1,163 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" height="130" align="center" style="width: 100%" />
-</div> 
-<h3 align="center">I am a webMethods developer who loves to code. I am passionate frontend and backend developer from India. I love to Exploring new fields and Empowering others.</h3>
+# Hi there, I'm Vinay Chandel 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vinaychandel1&label=Profile%20views&color=0e75b6&style=flat" alt="vinaychandel1" /> </p>
+<h3 align="center">Integration Consultant | webMethods Developer | AI Enthusiast</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vinaychandel1" alt="vinaychandel1" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/vinaych04232651" target="blank"><img src="https://img.shields.io/twitter/follow/vinaych04232651?logo=twitter&style=for-the-badge" alt="vinaych04232651" /></a> </p>
-
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/870476/screenshots/11226950/media/9630cdb5a4e7a93677aba8db2043bae5.jpg?compress=1&resize=1600x1200">
-
-- 🌱 I’m currently learning **R Programing,Vue js, Problem Solving**
-
-- 🤝 I’m looking for help with **____________** 
-
-- 📝 I regularly write articles on [https://techgator.in/](https://techgator.in/)
-
-- 💬 Ask me about **PHP, C++**
-
-- 📫 How to reach me **vinay97chandel@protonmail.com**
-
-- 📄 Know about my experiences [My Resume](https://bit.ly/3KZc1Ea)
-
-- ⚡ Fun fact **I think I am funny**
-<br>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/vinaych04232651" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="vinaych04232651" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/vinay-chandel-39837a133" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="vinay-chandel-39837a133" height="30" width="40" /></a>
-<a href="https://instagram.com/i_yuri_boyka_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="i_yuri_boyka_" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/vinaychandel1525" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="vinaychandel1525" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/vinaychandel1525" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="vinaychandel1525" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@vinaychandel1525" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg" alt="@vinaychandel1525" height="30" width="40" /></a>
-<a href="/https://techgator.in/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/rss.svg" alt="https://techgator.in/" height="30" width="40" /></a>
+<p align="center">
+  Building enterprise integrations, exploring AI-powered solutions, and continuously learning new technologies.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-<table><tr><td valign="top" width="33%">
+<p align="center">
+  <a href="mailto:contactvinaychandel@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://www.linkedin.com/in/vinay-chandel-39837a133/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/vinaychandel1">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+</p>
 
+---
 
+## 🚀 About Me
 
-### Frontend  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" />  
-</div>
+I'm an **Integration Consultant and AI Enthusiast** from India, passionate about enterprise application integration, backend development, and emerging AI technologies.
 
-</td><td valign="top" width="33%">
+- 💼 Working with enterprise integration solutions and webMethods technologies.
+- 🔗 Experienced in building and supporting APIs, EDI interfaces, and system integrations.
+- ☁️ Exploring cloud technologies, Azure, and modern data engineering tools.
+- 🤖 Learning AI, Generative AI, LLMs, RAG, and Agentic AI.
+- 🐍 Exploring Python and PySpark for AI and data engineering projects.
+- 🌱 Always learning, experimenting, and building practical projects.
+- 📝 Sharing technical knowledge and learning resources.
 
+📫 **Reach me:** [contactvinaychandel@gmail.com](mailto:contactvinaychandel@gmail.com)
 
+---
 
-### Backend  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/laravel-plain-wordmark.svg" alt="Laravel" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
-  <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Logo_DbVisualizer.svg/640px-Logo_DbVisualizer.svg.png" alt="DBVisualizer" height="55" width="105" />
- <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Software_AG_Logo_2015.jpg/150px-Software_AG_Logo_2015.jpg" alt="Git" height="50" width="120" /> 
-</div>
+## 🛠️ Technologies & Tools
 
-</td><td valign="top" width="33%">
+### Enterprise Integration & Middleware
 
+<p>
+  <img src="https://img.shields.io/badge/webMethods-Integration%20Server-009BDB?style=for-the-badge" alt="webMethods">
+  <img src="https://img.shields.io/badge/Software%20AG-Integration-005A9C?style=for-the-badge" alt="Software AG">
+  <img src="https://img.shields.io/badge/API%20Gateway-APIs-6C3483?style=for-the-badge" alt="API Gateway">
+  <img src="https://img.shields.io/badge/EDI-X12%20%7C%20EDIFACT-2874A6?style=for-the-badge" alt="EDI">
+  <img src="https://img.shields.io/badge/REST%20%7C%20SOAP-APIs-2E8B57?style=for-the-badge" alt="REST SOAP">
+  <img src="https://img.shields.io/badge/JMS-Messaging-7952B3?style=for-the-badge" alt="JMS">
+</p>
 
+### AI, Data Engineering & Cloud
 
-### DevOps  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /> 
-<img style="margin: 10px" a href="https://www.jenkins.io" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" height="50" /> 
-  <img style="margin: 10px" a href="https://www.softwareag.com/en_corporate/platform/integration-apis.html" src="https://media.proprofs.com/images/QM/user_images/2170919/1515525224.png" alt="Webmethods" height="65" width="100" /> 
-  <img style="margin: 10px" a href="https://www.microfocus.com/en-us/home" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Micro_Focus_logo.svg/799px-Micro_Focus_logo.svg.png?20150107080149" alt="ALM" height="50" /> 
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="PySpark">
+  <img src="https://img.shields.io/badge/Databricks-EA3B2C?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks">
+  <img src="https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure">
+  <img src="https://img.shields.io/badge/Azure%20Data%20Factory-0078D4?style=for-the-badge" alt="Azure Data Factory">
+  <img src="https://img.shields.io/badge/ADLS-Cloud%20Storage-0078D4?style=for-the-badge" alt="ADLS">
+  <img src="https://img.shields.io/badge/Generative%20AI-Learning-8E44AD?style=for-the-badge" alt="Generative AI">
+  <img src="https://img.shields.io/badge/LangChain-Framework-1C3C3C?style=for-the-badge" alt="LangChain">
+</p>
 
-  <img style="margin: 10px"  a href="https://www.softwareag.com/en_corporate/platform/integration-apis.html" src="https://media-fastly.hackerearth.com/media/companies/ec506386-2bad-11e5-a49e-22000a978a16-SAG_Primary_TabLogo_Grad_RGB_tcm89-107726.jpg" alt="SoftwareAG" height="65" width="120" />
-  <img style="margin: 10px" a href="https://www.putty.org/" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/PuTTY_Icon.svg/400px-PuTTY_Icon.svg.png?20220831174608" alt="Putty" height="50" /> 
-  <img style="margin: 10px" a href="https://www.atlassian.com/" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Jira_%28Software%29_logo.svg/798px-Jira_%28Software%29_logo.svg.png?20191008180352" alt="JIRA" height="55" width="100"/>
-</div>
+### Programming & Development
 
-</td></tr></table>   </p>
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL">
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vinaychandel1&show_icons=true&locale=en&layout=compact" alt="vinaychandel1" /></p>
+### DevOps & Developer Tools
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vinaychandel1&show_icons=true&locale=en" alt="vinaychandel1" /></p>
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins">
+  <img src="https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white" alt="Azure DevOps">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code">
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vinaychandel1&" alt="vinaychandel1" /></p>
+---
+
+## 🤖 Currently Exploring AI & Agentic AI
+
+I'm actively learning how to build intelligent applications using modern AI technologies.
+
+Some of the topics I'm exploring:
+
+- Large Language Models (LLMs)
+- Generative AI
+- Retrieval-Augmented Generation (RAG)
+- AI Agents and Agentic AI
+- Model Context Protocol (MCP)
+- LangChain and LangGraph
+- Python-based AI applications
+- AI-powered automation
+
+Check out my learning repository:
+
+<p>
+  <a href="https://github.com/vinaychandel1/AI-Agent">
+    <img src="https://img.shields.io/badge/Explore%20My%20AI%20Learning%20Repository-GitHub-181717?style=for-the-badge&logo=github" alt="AI Agent Repository">
+  </a>
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/vinay-chandel-39837a133/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://twitter.com/vinaych04232651" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+  </a>
+  <a href="https://www.instagram.com/i_yuri_boyka_/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="https://www.hackerrank.com/vinaychandel1525" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank">
+  </a>
+  <a href="https://leetcode.com/vinaychandel1525/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode">
+  </a>
+  <a href="https://www.hackerearth.com/@vinaychandel1525" target="_blank">
+    <img src="https://img.shields.io/badge/HackerEarth-323754?style=for-the-badge&logo=hackerearth&logoColor=white" alt="HackerEarth">
+  </a>
+  <a href="https://techgator.in/" target="_blank">
+    <img src="https://img.shields.io/badge/TechGator-Articles-FF6F00?style=for-the-badge&logo=rss&logoColor=white" alt="TechGator">
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vinaychandel1&show_icons=true&theme=tokyonight&hide_border=true" alt="Vinay's GitHub Statistics">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinaychandel1&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages">
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=vinaychandel1&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak">
+</p>
+
+---
+
+<p align="center">
+  <b>💡 Learn continuously. Build consistently. Innovate fearlessly.</b>
+</p>
+
+<p align="center">
+  Thanks for visiting my profile! ⭐
+</p>
